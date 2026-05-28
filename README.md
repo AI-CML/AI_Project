@@ -1,6 +1,6 @@
 # 블랙박스 주행 환경을 고려한 YOLO11 기반 도로 파손(포트홀/균열) 탐지 고도화 연구
 
-![framework](플로우차트.png)
+![framework](Flowchart.png)
 <p align="center"><b>[그림 3] 본 연구의 수행 절차 흐름도 (데이터 전처리 및 YOLOv11n 기반 평가 프로세스)</b></p>
 
 ## 📌 프로젝트 소개
