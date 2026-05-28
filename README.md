@@ -8,8 +8,7 @@
 To get started, clone the repository and install dependencies:
 
 ```bash
-!git clone https://github.com/AI-CML/AI_Project.git
-%cd AI_Project
+!git clone https://github.com/AI-CML/AI_Project.git %cd AI_Project
 !pip install -r requirements.txt
 ```
 
