@@ -21,6 +21,11 @@ opencv-python
 matplotlib
 numpy
 ```
+## Datasets
+
+We use the custom road damage detection dataset in our project. (Kaggle 원본 데이터를 하단 크롭 등 전처리하여 사용)
+
+For the `Road Damage Dataset` , you can download the original dataset from [Kaggle](https://www.kaggle.com/datasets/lorenzoarcioni/road-damage-dataset-potholes-cracks-and-manholes).
 
 ## 📌 프로젝트 소개
 본 프로젝트는 차량 블랙박스 주행 영상을 활용하여 도로 상의 파손(포트홀, 미세 균열 등)을 실시간으로 탐지하는 AI 모델 고도화 연구입니다. 단순 이미지 학습을 넘어, 실제 주행 환경(비 오는 날, 맑은 날)에서의 탐지 성능을 검증하고 구조적 오탐지 원인을 분석하여 데이터 중심(Data-Centric)의 해결책을 도출하는 것을 목표로 합니다.
